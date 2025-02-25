@@ -20,6 +20,6 @@
 <img src = "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/Tableau.png?raw=true)" width = "150" height = "80"/>&nbsp;
 <img src = "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/power-bi_logo.png?raw=true" width = "200" height = "80"/>&nbsp;
 <img src =  "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/ibm-spss-logo.png?raw=true" width = "100" height = "100"/>&nbsp;
-<img src =  "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/microsoft-excel.png?raw=true" width = "200"/>&nbsp;
-<img src =  "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/Oracle-Crystal-Ball-logo1.png?raw=true" width = "200"/>&nbsp;
+<img src =  "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/microsoft-excel.png?raw=true" width = "180" height = "100"/>&nbsp;
+<img src =  "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/Oracle-Crystal-Ball-logo1.png?raw=true" width = "150" height = "80"/>&nbsp;
 
