@@ -16,7 +16,8 @@
 <img src = "https://github.com/tanvisaini-git/tanvisaini-git/blob/f8cf6b0ecdaf51624c822ecea1d74c9e6a463925/rstudio-og.png" width = "200"/>&nbsp;
 <img src = "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/colab.png?raw=true" width = "200"/>&nbsp;
 <img src = "https://github.com/tanvisaini-git/tanvisaini-git/blob/f8cf6b0ecdaf51624c822ecea1d74c9e6a463925/MySQL-Logo.png" width = "200" />&nbsp;
-<img src = "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/Tableau.png?raw=true)" width = "200" height = "80"/>&nbsp;
+
+<img src = "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/Tableau.png?raw=true)" width = "150" height = "80"/>&nbsp;
 <img src = "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/power-bi_logo.png?raw=true" width = "200" height = "80"/>&nbsp;
 <img src =  "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/ibm-spss-logo.png?raw=true" width = "100" height = "100"/>&nbsp;
 <img src =  "https://github.com/tanvisaini-git/tanvisaini-git/blob/main/microsoft-excel.png?raw=true" width = "200"/>&nbsp;
