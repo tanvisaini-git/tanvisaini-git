@@ -12,3 +12,6 @@
 * 🎓B.Sc. in Statistics at Lady Shri Ram College, Delhi University
 
 ### Languages & Tools
+![image alt](https://github.com/tanvisaini-git/tanvisaini-git/blob/ca03c02a712546ed66fedbeac35e968dcf7da139/logopython.png)
+![image alt](https://github.com/tanvisaini-git/tanvisaini-git/blob/ca03c02a712546ed66fedbeac35e968dcf7da139/logopython.png)
+
